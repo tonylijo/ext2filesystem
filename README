@@ -1,0 +1,12 @@
+readroot help
+------------------
+	This program is to print the directorie entries in a ext2 filsystm 
+image in linux systems
+
+
+INSTALLATION
+------------
+#make
+#make clean
+#make install 						(as root)
+#readroot filesystem-image-name
